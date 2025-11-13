@@ -1,0 +1,1 @@
+This is an old version of a bot I made a while ago. If you want to use it, go ahead, but it's not the best. I recently started messing with it and made it way better, if you want to use that version(which is not open-source) install it to your discord server with this link ""
