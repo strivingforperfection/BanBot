@@ -1,5 +1,5 @@
 #author: striving
-#don't steal my code please
+#don't steal my code without giving me credits
 import asyncio
 import discord
 from discord import app_commands
